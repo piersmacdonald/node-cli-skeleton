@@ -1,0 +1,9 @@
+{
+  "name": "simple-report-generator",
+  "version": "0.0.0",
+  "description": "SimpleReportGenerator",
+  "main": "app.js",
+  "author": {
+    "name": "piers"
+  }
+}
